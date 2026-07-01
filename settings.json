@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "borloxol.aternos.me:29267",
+    "ip": "dhufish.aternos.host:29267",
     "port": 29267,
     "version": "26.2",
     "try-creative": false
